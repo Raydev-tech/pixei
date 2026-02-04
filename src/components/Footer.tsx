@@ -46,8 +46,8 @@ export default function Footer() {
 
                 <p className="py-4 text-center text-sm text-gray-400">
                     © {new Date().getFullYear()} {' '}
-                    <a href="https://prebuiltui.com/tailwind-templates?ref=pixel-forge">
-                        PrebuiltUI
+                    <a href="">
+                        BALOGUN
                     </a>
                     . All rights reserved.
                 </p>
